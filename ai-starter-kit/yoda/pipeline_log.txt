@@ -1,0 +1,362 @@
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+Traceback (most recent call last):
+  File "/Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/scripts/convert_json_to_jsonl.py", line 36, in <module>
+    convert_to_jsonl(input_json, output_jsonl)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/scripts/convert_json_to_jsonl.py", line 4, in convert_to_jsonl
+    with open(input_json, "r") as infile, open(output_jsonl, "w") as outfile:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '../data/customers/customers.json'
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+Traceback (most recent call last):
+  File "/Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/scripts/convert_json_to_jsonl.py", line 36, in <module>
+    convert_to_jsonl(input_json, output_jsonl)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/scripts/convert_json_to_jsonl.py", line 4, in convert_to_jsonl
+    with open(input_json, "r") as infile, open(output_jsonl, "w") as outfile:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '../data/customers/customers.json'
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+Traceback (most recent call last):
+  File "/Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/scripts/convert_json_to_jsonl.py", line 36, in <module>
+    convert_to_jsonl(input_json, output_jsonl)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/scripts/convert_json_to_jsonl.py", line 4, in convert_to_jsonl
+    with open(input_json, "r") as infile, open(output_jsonl, "w") as outfile:
+         ~~~~^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '../data/customers/customers.json'
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+❌ Eingabedatei nicht gefunden: ../data/customers/customers.json
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt: ../data/training_data.jsonl
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt: ../data/training_data.jsonl
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt: ../data/training_data.jsonl
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt: ../data/training_data.jsonl
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt: ../data/training_data.jsonl
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt: ../data/training_data.jsonl
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt: ../data/training_data.jsonl
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt: ../data/training_data.jsonl
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+❌ Eingabedatei nicht gefunden: ../data/customers/customers.json
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt: ../data/training_data.jsonl
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt: ../data/training_data.jsonl
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+✅ JSONL-Datei erfolgreich erstellt: ../data/training_data.jsonl
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model
+==== Schritt 1: JSON in JSONL umwandeln ====
+❌ Nutzung: python convert_to_jsonl.py <input_file> <output_jsonl>
+✅ JSONL-Datei erfolgreich erstellt.
+==== Schritt 2: Datenvorbereitung für YoDA ====
+Preprocessing abgeschlossen: ./data/output/preprocessed/preprocessed_data.jsonl
+✅ Datenvorbereitung abgeschlossen. Dateien gespeichert in: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/yoda/data/output/preprocessed
+==== Schritt 3: YoDA-Modell trainieren ====
+Trainingsdaten geladen: 50 Einträge
+Modell gespeichert unter: ./output/trained_model/model.json
+✅ Training abgeschlossen. Modell gespeichert unter ./output/trained_model

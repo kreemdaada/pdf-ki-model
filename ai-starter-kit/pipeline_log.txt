@@ -1,0 +1,75 @@
+=== 0. Bereinigung alter PDF-Dateien ===
+⚠️  Alter PDF-Ordner gefunden. Lösche den Inhalt...
+✅ PDF-Verzeichnis bereinigt.
+=== 1. Virtuelle Umgebung erstellen ===
+✅ Virtuelle Umgebung bereits vorhanden.
+Requirement already satisfied: pip in ./venv/lib/python3.13/site-packages (24.3.1)
+✅ Abhängigkeiten installiert.
+DEBUG: Überprüfe Datei unter /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/customers/customers.json
+✅ Datei gefunden: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/customers/customers.json
+=== 3. PDFs generieren ===
+DEBUG: Verzeichnisinhalt:
+total 48
+-rw-r--r--@ 1 kareem  staff  3078  1 Jan 15:59 convert_json_to_jsonl.py
+-rw-r--r--@ 1 kareem  staff  3106 30 Dez 14:07 create_pdf.py
+drwxr-xr-x  4 kareem  staff   128  1 Jan 19:31 data
+drwxr-xr-x  3 kareem  staff    96 30 Dez 15:52 data_extraction
+-rw-r--r--@ 1 kareem  staff  2031 30 Dez 14:15 fill_pdf_from_json.py
+-rw-r--r--@ 1 kareem  staff  2056  1 Jan 19:37 fill_pdf_with_customers.py
+-rw-r--r--@ 1 kareem  staff  2190 30 Dez 14:28 generate_dummy_data.py
+-rw-r--r--@ 1 kareem  staff  1812 15 Dez 10:08 infer_and_fill_pdf.py
+-rw-r--r--  1 kareem  staff     0 31 Dez 12:23 pipeline_log.txt
+DEBUG: Eingabedatei ist /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/customers/customers.json
+DEBUG: PDF-Ausgabeordner ist /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Mirja Krein_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Ing. Michaele Steckel B.A._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Tibor Jüttner_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Niklas Steinberg_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Ing. Katarzyna Lindner B.Sc._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Editha Hande_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Jolanthe Schleich_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Dipl.-Ing. Gereon Sorgatz_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Angela Schaaf_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Vadim Neureuther_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Rolf Geisler MBA._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Rebecca Thanel_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Canan Kitzmann B.A._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Donald Kruschwitz_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Adelheid Kühnert_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Herr Zdravko Dörr_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Luitgard Hettner_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Anne-Kathrin Koch B.Sc._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Alwin Hahn_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Nermin Heinrich B.Sc._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Otto Haering_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Corina Adler_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/David Rosemann B.Eng._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Siegrid Junken-Hethur_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Pius Buchholz_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Prof. Leander Wohlgemut_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Istvan Förster_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Univ.Prof. Pasquale Krause_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Karl-Peter Heß MBA._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Concetta Heuser_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Peter Dobes B.A._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Wolf-Rüdiger Krause_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Tomislav Koch II-Stiffel_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Mareike Mangold_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Erdal Buchholz B.Sc._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Mira Winkler-Niemeier_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Olivia Sontag B.Eng._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Caren Preiß_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Karl-Peter Pieper_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Annedore Zimmer_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Prof. Svea Dowerg B.Eng._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Undine Lindner_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Univ.Prof. Oscar Schuster B.Sc._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Karl-Werner Martin B.Eng._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Ing. Christiana Blümel_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Karl-Otto Margraf_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Dipl.-Ing. Gottlob Gröttner MBA._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Ing. Antoinette Mosemann_invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Ron Lindau B.Eng._invoice.pdf
+✅ PDF erstellt: /Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/data_extraction/data/output/customer_pdfs/Patrik Metz_invoice.pdf
+✅ PDFs erfolgreich erstellt.
+🚀 Pipeline erfolgreich abgeschlossen!

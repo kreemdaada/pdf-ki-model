@@ -1,0 +1,37 @@
+{
+    "name": "Mirja Krein",
+    "address": "Kuno-Bien-Gasse 2, 10731 Waldmünchen",
+    "phone": "+49(0) 999613755",
+    "email": "rnaser@web.de",
+    "invoice_number": "INV-2024-001",
+    "invoice_date": "2024-02-01",
+    "products": [
+        {
+            "product_name": "Webcam",
+            "quantity": 5,
+            "unit_price": 100,
+            "total": 500
+        },
+        {
+            "product_name": "Maus",
+            "quantity": 2,
+            "unit_price": 25,
+            "total": 50
+        },
+        {
+            "product_name": "Maus",
+            "quantity": 1,
+            "unit_price": 25,
+            "total": 25
+        },
+        {
+            "product_name": "Monitor",
+            "quantity": 2,
+            "unit_price": 200,
+            "total": 400
+        }
+    ],
+    "total_amount": "975 EUR",
+    "payment_due": "2025-01-10",
+    "comments": "Facere rerum laborum quos dolor iste."
+}

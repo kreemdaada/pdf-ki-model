@@ -1,0 +1,116 @@
+Name,Address,Phone,Email,Invoice Number,Invoice Date,Product Name,Quantity,Unit Price,Product Total,Total Amount,Payment Due,Comments
+Mirja Krein,"Kuno-Bien-Gasse 2, 10731 Waldmünchen",+49(0) 999613755,rnaser@web.de,INV-2024-001,2024-02-01,Webcam,5,100,500,975 EUR,2025-01-10,Facere rerum laborum quos dolor iste.
+Mirja Krein,"Kuno-Bien-Gasse 2, 10731 Waldmünchen",+49(0) 999613755,rnaser@web.de,INV-2024-001,2024-02-01,Maus,2,25,50,975 EUR,2025-01-10,Facere rerum laborum quos dolor iste.
+Mirja Krein,"Kuno-Bien-Gasse 2, 10731 Waldmünchen",+49(0) 999613755,rnaser@web.de,INV-2024-001,2024-02-01,Maus,1,25,25,975 EUR,2025-01-10,Facere rerum laborum quos dolor iste.
+Mirja Krein,"Kuno-Bien-Gasse 2, 10731 Waldmünchen",+49(0) 999613755,rnaser@web.de,INV-2024-001,2024-02-01,Monitor,2,200,400,975 EUR,2025-01-10,Facere rerum laborum quos dolor iste.
+Ing. Michaele Steckel B.A.,"Mareike-Weitzel-Allee 3/7, 81793 Uelzen",(07981) 56392,ybolzmann@web.de,INV-2024-002,2024-09-07,Tastatur,5,50,250,2100 EUR,2025-01-24,Sed beatae aut nulla.
+Ing. Michaele Steckel B.A.,"Mareike-Weitzel-Allee 3/7, 81793 Uelzen",(07981) 56392,ybolzmann@web.de,INV-2024-002,2024-09-07,Maus,2,25,50,2100 EUR,2025-01-24,Sed beatae aut nulla.
+Ing. Michaele Steckel B.A.,"Mareike-Weitzel-Allee 3/7, 81793 Uelzen",(07981) 56392,ybolzmann@web.de,INV-2024-002,2024-09-07,Drucker,4,300,1200,2100 EUR,2025-01-24,Sed beatae aut nulla.
+Ing. Michaele Steckel B.A.,"Mareike-Weitzel-Allee 3/7, 81793 Uelzen",(07981) 56392,ybolzmann@web.de,INV-2024-002,2024-09-07,Dockingstation,4,150,600,2100 EUR,2025-01-24,Sed beatae aut nulla.
+Tibor Jüttner,"Gülay-Gnatz-Weg 6, 23034 Schwandorf",+49(0) 928748111,kklemt@googlemail.com,INV-2024-003,2024-10-24,Headset,2,80,160,160 EUR,2025-01-07,Quas iusto expedita temporibus.
+Niklas Steinberg,"Gertzallee 1/2, 38101 Haldensleben",03258 24139,fechnersofia@googlemail.com,INV-2024-004,2024-04-25,Drucker,4,300,1200,1625 EUR,2025-01-26,Aliquid accusantium itaque quas.
+Niklas Steinberg,"Gertzallee 1/2, 38101 Haldensleben",03258 24139,fechnersofia@googlemail.com,INV-2024-004,2024-04-25,Dockingstation,2,150,300,1625 EUR,2025-01-26,Aliquid accusantium itaque quas.
+Niklas Steinberg,"Gertzallee 1/2, 38101 Haldensleben",03258 24139,fechnersofia@googlemail.com,INV-2024-004,2024-04-25,Maus,5,25,125,1625 EUR,2025-01-26,Aliquid accusantium itaque quas.
+Ing. Katarzyna Lindner B.Sc.,"Christa-Schinke-Allee 9/6, 19664 Eichstätt",(02583) 695862,marius66@googlemail.com,INV-2024-005,2024-05-28,Dockingstation,1,150,150,150 EUR,2025-01-21,Perferendis non quaerat fuga modi nesciunt illum.
+Editha Hande,"Steven-Eckbauer-Allee 1, 91304 Kronach",+49(0) 389124070,hartmutbohlander@hethur.com,INV-2024-006,2024-03-07,Dockingstation,3,150,450,450 EUR,2025-01-12,Dicta suscipit officia quia.
+Jolanthe Schleich,"Ludwina-Kitzmann-Platz 5, 53531 Großenhain",+49(0)4399 64307,nikolaos76@austermuehle.com,INV-2024-007,2024-02-09,Webcam,2,100,200,1000 EUR,2025-01-03,Commodi iusto saepe hic fugit.
+Jolanthe Schleich,"Ludwina-Kitzmann-Platz 5, 53531 Großenhain",+49(0)4399 64307,nikolaos76@austermuehle.com,INV-2024-007,2024-02-09,Monitor,4,200,800,1000 EUR,2025-01-03,Commodi iusto saepe hic fugit.
+Dipl.-Ing. Gereon Sorgatz,"Gebhard-Drewes-Gasse 247, 57232 Tuttlingen",(02366) 84998,zobelbritta@gmx.de,INV-2024-008,2024-05-27,Drucker,2,300,600,4890 EUR,2024-12-30,Iste vero quaerat asperiores nam.
+Dipl.-Ing. Gereon Sorgatz,"Gebhard-Drewes-Gasse 247, 57232 Tuttlingen",(02366) 84998,zobelbritta@gmx.de,INV-2024-008,2024-05-27,Dockingstation,3,150,450,4890 EUR,2024-12-30,Iste vero quaerat asperiores nam.
+Dipl.-Ing. Gereon Sorgatz,"Gebhard-Drewes-Gasse 247, 57232 Tuttlingen",(02366) 84998,zobelbritta@gmx.de,INV-2024-008,2024-05-27,Laptop,3,1200,3600,4890 EUR,2024-12-30,Iste vero quaerat asperiores nam.
+Dipl.-Ing. Gereon Sorgatz,"Gebhard-Drewes-Gasse 247, 57232 Tuttlingen",(02366) 84998,zobelbritta@gmx.de,INV-2024-008,2024-05-27,Headset,3,80,240,4890 EUR,2024-12-30,Iste vero quaerat asperiores nam.
+Angela Schaaf,"Eberhardtgasse 529, 47672 Kusel",(01164) 906358,senta79@liebelt.com,INV-2024-009,2024-03-31,Tastatur,2,50,100,100 EUR,2025-01-28,Adipisci modi dolore eos a.
+Vadim Neureuther,"Tlustekgasse 05, 47082 Tübingen",(03133) 34335,jasmintrommler@gumprich.com,INV-2024-010,2024-12-09,Tastatur,2,50,100,4500 EUR,2025-01-24,Iure excepturi dicta reprehenderit.
+Vadim Neureuther,"Tlustekgasse 05, 47082 Tübingen",(03133) 34335,jasmintrommler@gumprich.com,INV-2024-010,2024-12-09,Webcam,5,100,500,4500 EUR,2025-01-24,Iure excepturi dicta reprehenderit.
+Vadim Neureuther,"Tlustekgasse 05, 47082 Tübingen",(03133) 34335,jasmintrommler@gumprich.com,INV-2024-010,2024-12-09,Laptop,3,1200,3600,4500 EUR,2025-01-24,Iure excepturi dicta reprehenderit.
+Vadim Neureuther,"Tlustekgasse 05, 47082 Tübingen",(03133) 34335,jasmintrommler@gumprich.com,INV-2024-010,2024-12-09,Drucker,1,300,300,4500 EUR,2025-01-24,Iure excepturi dicta reprehenderit.
+Rolf Geisler MBA.,"Mühlering 1, 92691 Hildesheim",+49(0)8851131616,ernest12@web.de,INV-2024-011,2024-07-23,Monitor,1,200,200,400 EUR,2025-01-18,Tenetur officia quisquam ea.
+Rolf Geisler MBA.,"Mühlering 1, 92691 Hildesheim",+49(0)8851131616,ernest12@web.de,INV-2024-011,2024-07-23,Monitor,1,200,200,400 EUR,2025-01-18,Tenetur officia quisquam ea.
+Rebecca Thanel,"Petra-Gerlach-Straße 5/1, 45089 Eichstätt",(02012) 533458,omangold@mentzel.de,INV-2024-012,2024-03-24,Dockingstation,5,150,750,1650 EUR,2024-12-31,Incidunt hic quaerat hic aliquid.
+Rebecca Thanel,"Petra-Gerlach-Straße 5/1, 45089 Eichstätt",(02012) 533458,omangold@mentzel.de,INV-2024-012,2024-03-24,Webcam,5,100,500,1650 EUR,2024-12-31,Incidunt hic quaerat hic aliquid.
+Rebecca Thanel,"Petra-Gerlach-Straße 5/1, 45089 Eichstätt",(02012) 533458,omangold@mentzel.de,INV-2024-012,2024-03-24,Headset,5,80,400,1650 EUR,2024-12-31,Incidunt hic quaerat hic aliquid.
+Canan Kitzmann B.A.,"Kristiane-Gutknecht-Weg 077, 11130 Tecklenburg",+49(0)3345379070,yseifert@baum.com,INV-2024-013,2024-11-24,Dockingstation,1,150,150,150 EUR,2025-01-27,Nulla incidunt voluptates delectus.
+Donald Kruschwitz,"Sonja-Textor-Ring 4, 73120 Grimmen",+49(0) 864559557,uconradi@gmail.com,INV-2024-014,2024-07-22,Maus,4,25,100,100 EUR,2025-01-03,Maxime blanditiis ipsum molestias mollitia.
+Adelheid Kühnert,"Schmiedtgasse 417, 82094 Cuxhaven",(09780) 179341,cgeisler@hoevel.org,INV-2024-015,2024-10-28,Laptop,3,1200,3600,3800 EUR,2025-01-17,Incidunt ut excepturi sint.
+Adelheid Kühnert,"Schmiedtgasse 417, 82094 Cuxhaven",(09780) 179341,cgeisler@hoevel.org,INV-2024-015,2024-10-28,Tastatur,4,50,200,3800 EUR,2025-01-17,Incidunt ut excepturi sint.
+Herr Zdravko Dörr,"Möchlichenweg 32, 36553 Calw",+49(0)9106 923938,hansjoachimtrapp@aol.de,INV-2024-016,2024-03-03,Dockingstation,5,150,750,950 EUR,2025-01-18,Eius labore quisquam illo modi.
+Herr Zdravko Dörr,"Möchlichenweg 32, 36553 Calw",+49(0)9106 923938,hansjoachimtrapp@aol.de,INV-2024-016,2024-03-03,Monitor,1,200,200,950 EUR,2025-01-18,Eius labore quisquam illo modi.
+Luitgard Hettner,"Pohlweg 8, 38048 Soltau",01717 538406,marieluise00@schinke.com,INV-2024-017,2024-07-18,Monitor,1,200,200,225 EUR,2025-01-23,Provident velit modi adipisci vero et.
+Luitgard Hettner,"Pohlweg 8, 38048 Soltau",01717 538406,marieluise00@schinke.com,INV-2024-017,2024-07-18,Maus,1,25,25,225 EUR,2025-01-23,Provident velit modi adipisci vero et.
+Anne-Kathrin Koch B.Sc.,"Mielcarekallee 17, 08977 Greiz",+49(0)9517 77830,pecheldenny@koch.de,INV-2024-018,2024-02-06,Webcam,2,100,200,200 EUR,2025-01-20,Ratione repellendus repellendus velit distinctio possimus at.
+Alwin Hahn,"Albersstr. 996, 66024 Wolfach",+49(0) 431147442,mauricesager@christoph.org,INV-2024-019,2024-02-29,Dockingstation,1,150,150,2750 EUR,2025-01-18,Reiciendis nostrum aliquid nisi recusandae veniam.
+Alwin Hahn,"Albersstr. 996, 66024 Wolfach",+49(0) 431147442,mauricesager@christoph.org,INV-2024-019,2024-02-29,Monitor,1,200,200,2750 EUR,2025-01-18,Reiciendis nostrum aliquid nisi recusandae veniam.
+Alwin Hahn,"Albersstr. 996, 66024 Wolfach",+49(0) 431147442,mauricesager@christoph.org,INV-2024-019,2024-02-29,Laptop,2,1200,2400,2750 EUR,2025-01-18,Reiciendis nostrum aliquid nisi recusandae veniam.
+Nermin Heinrich B.Sc.,"Liselotte-Schüler-Straße 2, 20599 Gera",+49 (0) 7456 766111,poderwald@hotmail.de,INV-2024-020,2024-03-18,Webcam,2,100,200,200 EUR,2025-01-17,Aperiam modi debitis.
+Otto Haering,"Kensystr. 92, 46060 Sulzbach-Rosenberg",+49(0)7172 727283,mehdi49@gmx.de,INV-2024-021,2024-10-16,Drucker,4,300,1200,3000 EUR,2025-01-16,Maxime mollitia nam beatae amet cupiditate a vitae.
+Otto Haering,"Kensystr. 92, 46060 Sulzbach-Rosenberg",+49(0)7172 727283,mehdi49@gmx.de,INV-2024-021,2024-10-16,Monitor,5,200,1000,3000 EUR,2025-01-16,Maxime mollitia nam beatae amet cupiditate a vitae.
+Otto Haering,"Kensystr. 92, 46060 Sulzbach-Rosenberg",+49(0)7172 727283,mehdi49@gmx.de,INV-2024-021,2024-10-16,Monitor,4,200,800,3000 EUR,2025-01-16,Maxime mollitia nam beatae amet cupiditate a vitae.
+Corina Adler,"Pohlstr. 457, 21345 Gerolzhofen",0062998891,annedore32@carsten.com,INV-2024-022,2024-06-02,Dockingstation,2,150,300,9900 EUR,2025-01-27,Temporibus libero excepturi sit.
+Corina Adler,"Pohlstr. 457, 21345 Gerolzhofen",0062998891,annedore32@carsten.com,INV-2024-022,2024-06-02,Laptop,4,1200,4800,9900 EUR,2025-01-27,Temporibus libero excepturi sit.
+Corina Adler,"Pohlstr. 457, 21345 Gerolzhofen",0062998891,annedore32@carsten.com,INV-2024-022,2024-06-02,Laptop,2,1200,2400,9900 EUR,2025-01-27,Temporibus libero excepturi sit.
+Corina Adler,"Pohlstr. 457, 21345 Gerolzhofen",0062998891,annedore32@carsten.com,INV-2024-022,2024-06-02,Laptop,2,1200,2400,9900 EUR,2025-01-27,Temporibus libero excepturi sit.
+David Rosemann B.Eng.,"Andrey-Wieloch-Ring 8/3, 54116 Miltenberg",+49(0)5842686755,peukertalessandro@googlemail.com,INV-2024-023,2024-01-04,Webcam,2,100,200,200 EUR,2025-01-07,Autem iure quibusdam quae.
+Siegrid Junken-Hethur,"Alberto-Schaaf-Platz 427, 77308 Wolfratshausen",+49(0)3032 399249,jorgewohlgemut@googlemail.com,INV-2024-024,2024-10-14,Maus,3,25,75,1460 EUR,2025-01-06,Cum ipsam dolorum provident fugit.
+Siegrid Junken-Hethur,"Alberto-Schaaf-Platz 427, 77308 Wolfratshausen",+49(0)3032 399249,jorgewohlgemut@googlemail.com,INV-2024-024,2024-10-14,Drucker,4,300,1200,1460 EUR,2025-01-06,Cum ipsam dolorum provident fugit.
+Siegrid Junken-Hethur,"Alberto-Schaaf-Platz 427, 77308 Wolfratshausen",+49(0)3032 399249,jorgewohlgemut@googlemail.com,INV-2024-024,2024-10-14,Headset,2,80,160,1460 EUR,2025-01-06,Cum ipsam dolorum provident fugit.
+Siegrid Junken-Hethur,"Alberto-Schaaf-Platz 427, 77308 Wolfratshausen",+49(0)3032 399249,jorgewohlgemut@googlemail.com,INV-2024-024,2024-10-14,Maus,1,25,25,1460 EUR,2025-01-06,Cum ipsam dolorum provident fugit.
+Pius Buchholz,"Anny-Kostolzin-Allee 4/2, 46539 Stadtroda",(09304) 123973,swulff@googlemail.com,INV-2024-025,2024-12-05,Maus,3,25,75,2975 EUR,2025-01-21,Voluptatibus voluptate fugiat distinctio fugiat.
+Pius Buchholz,"Anny-Kostolzin-Allee 4/2, 46539 Stadtroda",(09304) 123973,swulff@googlemail.com,INV-2024-025,2024-12-05,Tastatur,4,50,200,2975 EUR,2025-01-21,Voluptatibus voluptate fugiat distinctio fugiat.
+Pius Buchholz,"Anny-Kostolzin-Allee 4/2, 46539 Stadtroda",(09304) 123973,swulff@googlemail.com,INV-2024-025,2024-12-05,Dockingstation,2,150,300,2975 EUR,2025-01-21,Voluptatibus voluptate fugiat distinctio fugiat.
+Pius Buchholz,"Anny-Kostolzin-Allee 4/2, 46539 Stadtroda",(09304) 123973,swulff@googlemail.com,INV-2024-025,2024-12-05,Laptop,2,1200,2400,2975 EUR,2025-01-21,Voluptatibus voluptate fugiat distinctio fugiat.
+Prof. Leander Wohlgemut,"Heserallee 987, 58729 Haldensleben",+49(0)3452 61847,nataliedoerr@gmx.de,INV-2024-026,2024-10-08,Tastatur,1,50,50,50 EUR,2025-01-09,Labore dolore ipsam praesentium velit laudantium molestias.
+Istvan Förster,"Preißstr. 5, 48867 Schwandorf",05612 92916,tstaude@ullmann.com,INV-2024-027,2024-09-30,Laptop,1,1200,1200,2200 EUR,2025-01-03,Similique illo perferendis magnam ipsam.
+Istvan Förster,"Preißstr. 5, 48867 Schwandorf",05612 92916,tstaude@ullmann.com,INV-2024-027,2024-09-30,Monitor,2,200,400,2200 EUR,2025-01-03,Similique illo perferendis magnam ipsam.
+Istvan Förster,"Preißstr. 5, 48867 Schwandorf",05612 92916,tstaude@ullmann.com,INV-2024-027,2024-09-30,Monitor,3,200,600,2200 EUR,2025-01-03,Similique illo perferendis magnam ipsam.
+Univ.Prof. Pasquale Krause,"Fritschallee 032, 39008 Aschaffenburg",(06050) 56696,erdmutehoevel@yahoo.de,INV-2024-028,2024-06-21,Dockingstation,5,150,750,830 EUR,2025-01-16,Sit qui neque eum exercitationem.
+Univ.Prof. Pasquale Krause,"Fritschallee 032, 39008 Aschaffenburg",(06050) 56696,erdmutehoevel@yahoo.de,INV-2024-028,2024-06-21,Headset,1,80,80,830 EUR,2025-01-16,Sit qui neque eum exercitationem.
+Karl-Peter Heß MBA.,"Abraham-Hörle-Straße 123, 59276 Mühldorf am Inn",09182 161161,lene57@hotmail.de,INV-2024-029,2024-02-18,Monitor,1,200,200,800 EUR,2025-01-24,Deserunt facere voluptatibus ea quis.
+Karl-Peter Heß MBA.,"Abraham-Hörle-Straße 123, 59276 Mühldorf am Inn",09182 161161,lene57@hotmail.de,INV-2024-029,2024-02-18,Dockingstation,4,150,600,800 EUR,2025-01-24,Deserunt facere voluptatibus ea quis.
+Concetta Heuser,"Carlo-Seip-Allee 8, 67627 Gadebusch",+49(0)3563859502,luitgard52@ullrich.de,INV-2024-030,2024-12-26,Laptop,5,1200,6000,6650 EUR,2025-01-27,Commodi illo nesciunt repellat distinctio.
+Concetta Heuser,"Carlo-Seip-Allee 8, 67627 Gadebusch",+49(0)3563859502,luitgard52@ullrich.de,INV-2024-030,2024-12-26,Tastatur,4,50,200,6650 EUR,2025-01-27,Commodi illo nesciunt repellat distinctio.
+Concetta Heuser,"Carlo-Seip-Allee 8, 67627 Gadebusch",+49(0)3563859502,luitgard52@ullrich.de,INV-2024-030,2024-12-26,Webcam,2,100,200,6650 EUR,2025-01-27,Commodi illo nesciunt repellat distinctio.
+Concetta Heuser,"Carlo-Seip-Allee 8, 67627 Gadebusch",+49(0)3563859502,luitgard52@ullrich.de,INV-2024-030,2024-12-26,Tastatur,5,50,250,6650 EUR,2025-01-27,Commodi illo nesciunt repellat distinctio.
+Peter Dobes B.A.,"Cengiz-Hövel-Weg 88, 61033 Leipziger Land",+49(0) 581068500,roehrdanzgottfried@kambs.de,INV-2024-031,2024-07-27,Laptop,5,1200,6000,7100 EUR,2025-01-21,Vitae asperiores rem deleniti ab expedita.
+Peter Dobes B.A.,"Cengiz-Hövel-Weg 88, 61033 Leipziger Land",+49(0) 581068500,roehrdanzgottfried@kambs.de,INV-2024-031,2024-07-27,Webcam,5,100,500,7100 EUR,2025-01-21,Vitae asperiores rem deleniti ab expedita.
+Peter Dobes B.A.,"Cengiz-Hövel-Weg 88, 61033 Leipziger Land",+49(0) 581068500,roehrdanzgottfried@kambs.de,INV-2024-031,2024-07-27,Dockingstation,4,150,600,7100 EUR,2025-01-21,Vitae asperiores rem deleniti ab expedita.
+Wolf-Rüdiger Krause,"Eduard-Lachmann-Straße 2/9, 43375 Ebern",+49(0)5591 17124,arogner@sontag.de,INV-2024-032,2024-04-04,Monitor,1,200,200,2860 EUR,2025-01-08,Tenetur architecto pariatur reiciendis tempora consectetur qui impedit.
+Wolf-Rüdiger Krause,"Eduard-Lachmann-Straße 2/9, 43375 Ebern",+49(0)5591 17124,arogner@sontag.de,INV-2024-032,2024-04-04,Laptop,2,1200,2400,2860 EUR,2025-01-08,Tenetur architecto pariatur reiciendis tempora consectetur qui impedit.
+Wolf-Rüdiger Krause,"Eduard-Lachmann-Straße 2/9, 43375 Ebern",+49(0)5591 17124,arogner@sontag.de,INV-2024-032,2024-04-04,Headset,2,80,160,2860 EUR,2025-01-08,Tenetur architecto pariatur reiciendis tempora consectetur qui impedit.
+Wolf-Rüdiger Krause,"Eduard-Lachmann-Straße 2/9, 43375 Ebern",+49(0)5591 17124,arogner@sontag.de,INV-2024-032,2024-04-04,Tastatur,2,50,100,2860 EUR,2025-01-08,Tenetur architecto pariatur reiciendis tempora consectetur qui impedit.
+Tomislav Koch II-Stiffel,"Folkert-Knappe-Gasse 051, 85708 Schwandorf",+49(0)2348 38881,ingetrautreising@googlemail.com,INV-2024-033,2024-10-30,Drucker,3,300,900,900 EUR,2025-01-12,Nemo perferendis voluptate dolorem delectus.
+Mareike Mangold,"Marisa-Schulz-Allee 90, 16659 Pinneberg",+49(0)2396948053,gnatzbogdan@googlemail.com,INV-2024-034,2024-10-04,Maus,5,25,125,3125 EUR,2025-01-09,Sequi officia quisquam deserunt quasi doloremque vel.
+Mareike Mangold,"Marisa-Schulz-Allee 90, 16659 Pinneberg",+49(0)2396948053,gnatzbogdan@googlemail.com,INV-2024-034,2024-10-04,Maus,4,25,100,3125 EUR,2025-01-09,Sequi officia quisquam deserunt quasi doloremque vel.
+Mareike Mangold,"Marisa-Schulz-Allee 90, 16659 Pinneberg",+49(0)2396948053,gnatzbogdan@googlemail.com,INV-2024-034,2024-10-04,Webcam,5,100,500,3125 EUR,2025-01-09,Sequi officia quisquam deserunt quasi doloremque vel.
+Mareike Mangold,"Marisa-Schulz-Allee 90, 16659 Pinneberg",+49(0)2396948053,gnatzbogdan@googlemail.com,INV-2024-034,2024-10-04,Laptop,2,1200,2400,3125 EUR,2025-01-09,Sequi officia quisquam deserunt quasi doloremque vel.
+Erdal Buchholz B.Sc.,"Cosima-Atzler-Gasse 610, 55104 Ribnitz-Damgarten",0369250883,immoklingelhoefer@hentschel.de,INV-2024-035,2024-12-16,Tastatur,1,50,50,50 EUR,2025-01-10,Quam optio dolor ut perferendis inventore sed.
+Mira Winkler-Niemeier,"Bährring 2, 52307 Apolda",03126 70281,gunpffrancesco@yahoo.de,INV-2024-036,2024-05-14,Laptop,2,1200,2400,6000 EUR,2025-01-28,Voluptatem a corrupti ea voluptatibus.
+Mira Winkler-Niemeier,"Bährring 2, 52307 Apolda",03126 70281,gunpffrancesco@yahoo.de,INV-2024-036,2024-05-14,Laptop,3,1200,3600,6000 EUR,2025-01-28,Voluptatem a corrupti ea voluptatibus.
+Olivia Sontag B.Eng.,"Elias-Boucsein-Weg 938, 32758 Reutlingen",+49(0)8881279929,tschentschersusanne@gotthard.de,INV-2024-037,2024-06-25,Tastatur,2,50,100,300 EUR,2025-01-28,Velit sunt molestiae repellat mollitia accusantium.
+Olivia Sontag B.Eng.,"Elias-Boucsein-Weg 938, 32758 Reutlingen",+49(0)8881279929,tschentschersusanne@gotthard.de,INV-2024-037,2024-06-25,Webcam,2,100,200,300 EUR,2025-01-28,Velit sunt molestiae repellat mollitia accusantium.
+Caren Preiß,"Paolo-Adler-Gasse 1/3, 59600 Warendorf",(04386) 15763,oackermann@karz.com,INV-2024-038,2024-06-05,Headset,1,80,80,530 EUR,2025-01-14,Corporis sequi saepe unde.
+Caren Preiß,"Paolo-Adler-Gasse 1/3, 59600 Warendorf",(04386) 15763,oackermann@karz.com,INV-2024-038,2024-06-05,Dockingstation,3,150,450,530 EUR,2025-01-14,Corporis sequi saepe unde.
+Karl-Peter Pieper,"Katrin-Adler-Gasse 7, 77721 Göttingen",+49(0)8875992672,warmerkreszenz@googlemail.com,INV-2024-039,2024-09-09,Monitor,1,200,200,1100 EUR,2025-01-19,Quae corrupti aliquid quaerat id quisquam veniam.
+Karl-Peter Pieper,"Katrin-Adler-Gasse 7, 77721 Göttingen",+49(0)8875992672,warmerkreszenz@googlemail.com,INV-2024-039,2024-09-09,Drucker,3,300,900,1100 EUR,2025-01-19,Quae corrupti aliquid quaerat id quisquam veniam.
+Annedore Zimmer,"Seipstraße 2, 26310 Lüdinghausen",08152 110975,baldur50@mohaupt.net,INV-2024-040,2024-01-30,Headset,5,80,400,4950 EUR,2025-01-10,Aut neque suscipit ad saepe.
+Annedore Zimmer,"Seipstraße 2, 26310 Lüdinghausen",08152 110975,baldur50@mohaupt.net,INV-2024-040,2024-01-30,Dockingstation,3,150,450,4950 EUR,2025-01-10,Aut neque suscipit ad saepe.
+Annedore Zimmer,"Seipstraße 2, 26310 Lüdinghausen",08152 110975,baldur50@mohaupt.net,INV-2024-040,2024-01-30,Webcam,5,100,500,4950 EUR,2025-01-10,Aut neque suscipit ad saepe.
+Annedore Zimmer,"Seipstraße 2, 26310 Lüdinghausen",08152 110975,baldur50@mohaupt.net,INV-2024-040,2024-01-30,Laptop,3,1200,3600,4950 EUR,2025-01-10,Aut neque suscipit ad saepe.
+Prof. Svea Dowerg B.Eng.,"Beckmannweg 800, 46632 Belzig",09183 14780,stumpfleander@yahoo.de,INV-2024-041,2024-06-14,Drucker,5,300,1500,1500 EUR,2025-01-16,Minima voluptatem hic molestiae dolorum dignissimos recusandae ullam.
+Undine Lindner,"Werneckegasse 7, 23474 Lübz",0169578022,dlange@striebitz.com,INV-2024-042,2024-12-21,Webcam,4,100,400,400 EUR,2025-01-15,Assumenda expedita labore blanditiis optio commodi nisi.
+Univ.Prof. Oscar Schuster B.Sc.,"Kranzplatz 6, 68777 Düren",(08618) 55022,mhering@noack.de,INV-2024-043,2024-06-08,Laptop,5,1200,6000,6900 EUR,2025-01-04,Hic pariatur provident nulla culpa nemo.
+Univ.Prof. Oscar Schuster B.Sc.,"Kranzplatz 6, 68777 Düren",(08618) 55022,mhering@noack.de,INV-2024-043,2024-06-08,Drucker,3,300,900,6900 EUR,2025-01-04,Hic pariatur provident nulla culpa nemo.
+Karl-Werner Martin B.Eng.,"Kramerplatz 79, 54052 Nürtingen",(01082) 26727,ruppertgeorge@meyer.com,INV-2024-044,2024-06-21,Webcam,5,100,500,890 EUR,2025-01-24,Aspernatur nemo libero.
+Karl-Werner Martin B.Eng.,"Kramerplatz 79, 54052 Nürtingen",(01082) 26727,ruppertgeorge@meyer.com,INV-2024-044,2024-06-21,Maus,4,25,100,890 EUR,2025-01-24,Aspernatur nemo libero.
+Karl-Werner Martin B.Eng.,"Kramerplatz 79, 54052 Nürtingen",(01082) 26727,ruppertgeorge@meyer.com,INV-2024-044,2024-06-21,Maus,2,25,50,890 EUR,2025-01-24,Aspernatur nemo libero.
+Karl-Werner Martin B.Eng.,"Kramerplatz 79, 54052 Nürtingen",(01082) 26727,ruppertgeorge@meyer.com,INV-2024-044,2024-06-21,Headset,3,80,240,890 EUR,2025-01-24,Aspernatur nemo libero.
+Ing. Christiana Blümel,"Trübring 8, 13893 Sonneberg",(00264) 996561,zwohlgemut@aol.de,INV-2024-045,2024-05-24,Drucker,5,300,1500,1500 EUR,2025-01-04,Dolore exercitationem eveniet soluta voluptas earum illum.
+Karl-Otto Margraf,"Fiebigplatz 39, 85173 Ravensburg",(08111) 892127,marietta82@moechlichen.de,INV-2024-046,2024-06-10,Headset,2,80,160,310 EUR,2025-01-23,Facilis adipisci facilis quod.
+Karl-Otto Margraf,"Fiebigplatz 39, 85173 Ravensburg",(08111) 892127,marietta82@moechlichen.de,INV-2024-046,2024-06-10,Tastatur,3,50,150,310 EUR,2025-01-23,Facilis adipisci facilis quod.
+Dipl.-Ing. Gottlob Gröttner MBA.,"Babette-Heß-Gasse 96, 42066 Hechingen",+49(0)5156966984,whiller@huhn.de,INV-2024-047,2024-04-23,Drucker,2,300,600,5400 EUR,2025-01-14,Eos veritatis sed perferendis quos perspiciatis quia.
+Dipl.-Ing. Gottlob Gröttner MBA.,"Babette-Heß-Gasse 96, 42066 Hechingen",+49(0)5156966984,whiller@huhn.de,INV-2024-047,2024-04-23,Laptop,4,1200,4800,5400 EUR,2025-01-14,Eos veritatis sed perferendis quos perspiciatis quia.
+Ing. Antoinette Mosemann,"Alina-Mosemann-Weg 5/1, 69331 Eggenfelden",+49 (0) 5656 091522,lehmannjan-peter@gmail.com,INV-2024-048,2024-08-30,Monitor,4,200,800,800 EUR,2025-01-06,Dolor id a deleniti minima.
+Ron Lindau B.Eng.,"Handering 5, 61253 Fürstenfeldbruck",02200 47448,nruppersberger@sorgatz.de,INV-2024-049,2024-12-16,Headset,2,80,160,910 EUR,2025-01-08,Architecto natus officiis nobis saepe deserunt quo.
+Ron Lindau B.Eng.,"Handering 5, 61253 Fürstenfeldbruck",02200 47448,nruppersberger@sorgatz.de,INV-2024-049,2024-12-16,Tastatur,5,50,250,910 EUR,2025-01-08,Architecto natus officiis nobis saepe deserunt quo.
+Ron Lindau B.Eng.,"Handering 5, 61253 Fürstenfeldbruck",02200 47448,nruppersberger@sorgatz.de,INV-2024-049,2024-12-16,Webcam,5,100,500,910 EUR,2025-01-08,Architecto natus officiis nobis saepe deserunt quo.
+Patrik Metz,"Stolzegasse 4/0, 26675 Iserlohn",09309 317288,usoeding@hotmail.de,INV-2024-050,2024-07-28,Maus,5,25,125,1325 EUR,2025-01-17,Ab dolor voluptates consequuntur deleniti ratione enim.
+Patrik Metz,"Stolzegasse 4/0, 26675 Iserlohn",09309 317288,usoeding@hotmail.de,INV-2024-050,2024-07-28,Laptop,1,1200,1200,1325 EUR,2025-01-17,Ab dolor voluptates consequuntur deleniti ratione enim.

@@ -1,0 +1,53 @@
+{
+    "model_name": "dummy_yoda_model",
+    "status": "training_complete",
+    "fields": [
+        "name",
+        "address",
+        "phone",
+        "email",
+        "products",
+        "total_amount",
+        "payment_due"
+    ],
+    "example": {
+        "text": "Name: Mirja Krein, Adresse: Kuno-Bien-Gasse 2, 10731 Waldmünchen, Telefon: +49(0) 999613755, E-Mail: rnaser@web.de, Rechnungsnummer: INV-2024-001, Rechnungsdatum: 2024-02-01, Produkte: Webcam (Menge: 5, Einzelpreis: 100, Gesamt: 500), Maus (Menge: 2, Einzelpreis: 25, Gesamt: 50), Maus (Menge: 1, Einzelpreis: 25, Gesamt: 25), Monitor (Menge: 2, Einzelpreis: 200, Gesamt: 400), Gesamtbetrag: 975 EUR, Zahlungsziel: 2025-01-10, Kommentare: Facere rerum laborum quos dolor iste.",
+        "label": {
+            "name": "Mirja Krein",
+            "address": "Kuno-Bien-Gasse 2, 10731 Waldmünchen",
+            "phone": "+49(0) 999613755",
+            "email": "rnaser@web.de",
+            "invoice_number": "INV-2024-001",
+            "invoice_date": "2024-02-01",
+            "products": [
+                {
+                    "product_name": "Webcam",
+                    "quantity": 5,
+                    "unit_price": 100,
+                    "total": 500
+                },
+                {
+                    "product_name": "Maus",
+                    "quantity": 2,
+                    "unit_price": 25,
+                    "total": 50
+                },
+                {
+                    "product_name": "Maus",
+                    "quantity": 1,
+                    "unit_price": 25,
+                    "total": 25
+                },
+                {
+                    "product_name": "Monitor",
+                    "quantity": 2,
+                    "unit_price": 200,
+                    "total": 400
+                }
+            ],
+            "total_amount": "975 EUR",
+            "payment_due": "2025-01-10",
+            "comments": "Facere rerum laborum quos dolor iste."
+        }
+    }
+}
