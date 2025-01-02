@@ -1,0 +1,18 @@
+=== 0. Bereinigung alter Dateien ===
+✅ Alte Dateien und Ordner bereinigt.
+=== 1. Virtuelle Umgebung erstellen ===
+Requirement already satisfied: pip in /Users/kareem/.pyenv/versions/3.10.12/lib/python3.10/site-packages (24.3.1)
+Requirement already satisfied: fpdf in /Users/kareem/.pyenv/versions/3.10.12/lib/python3.10/site-packages (1.7.2)
+Requirement already satisfied: reportlab in /Users/kareem/.pyenv/versions/3.10.12/lib/python3.10/site-packages (4.2.5)
+Requirement already satisfied: pandas in /Users/kareem/.pyenv/versions/3.10.12/lib/python3.10/site-packages (2.2.3)
+Requirement already satisfied: pillow>=9.0.0 in /Users/kareem/.pyenv/versions/3.10.12/lib/python3.10/site-packages (from reportlab) (11.0.0)
+Requirement already satisfied: chardet in /Users/kareem/.pyenv/versions/3.10.12/lib/python3.10/site-packages (from reportlab) (5.2.0)
+Requirement already satisfied: numpy>=1.22.4 in /Users/kareem/.pyenv/versions/3.10.12/lib/python3.10/site-packages (from pandas) (2.2.1)
+Requirement already satisfied: python-dateutil>=2.8.2 in /Users/kareem/.pyenv/versions/3.10.12/lib/python3.10/site-packages (from pandas) (2.9.0.post0)
+Requirement already satisfied: pytz>=2020.1 in /Users/kareem/.pyenv/versions/3.10.12/lib/python3.10/site-packages (from pandas) (2024.2)
+Requirement already satisfied: tzdata>=2022.7 in /Users/kareem/.pyenv/versions/3.10.12/lib/python3.10/site-packages (from pandas) (2024.2)
+Requirement already satisfied: six>=1.5 in /Users/kareem/.pyenv/versions/3.10.12/lib/python3.10/site-packages (from python-dateutil>=2.8.2->pandas) (1.17.0)
+✅ Virtuelle Umgebung eingerichtet.
+=== 2. Dummy-Daten generieren ===
+/Users/kareem/.pyenv/versions/3.10.12/bin/python3: can't open file '/Users/kareem/Desktop/PDFs-KI-Model/ai-starter-kit/generate_dummy_data.py': [Errno 2] No such file or directory
+❌ Fehler beim Generieren der Dummy-Daten.
